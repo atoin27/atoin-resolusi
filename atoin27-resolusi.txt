@@ -1,4 +1,5 @@
 Atoin27 Resolusi
+- belajar github online
 - konsisten untuk belajar web programing
 - belajar roda map web developer
 - belajar menguasai manajemen source code
